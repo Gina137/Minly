@@ -3,7 +3,9 @@ By:Gina Ayad Mahfouz
 
 ### Table of contents
 1- [Overview](#overview)
+
 2- [How to run](#how-to-run)
+
 3- [Output](#output)
 
 ## Overview
