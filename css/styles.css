@@ -1,0 +1,27 @@
+body
+{
+    background-image:url("../images/Gallerybackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar-brand
+{
+    font-weight: bold;
+    font-size: 2.5em;
+    box-shadow: 2px 2px 2px 2px red;
+}
+.navbar ul a 
+{
+    font-size: 1.7em;
+}
+.add-to-Gallery p
+{
+    font-weight: bold;
+    font-size: 2.7em;
+    font-family:cursive;
+}
+.add-button input[type='file']
+{
+    display: none;
+}
